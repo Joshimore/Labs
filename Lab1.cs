@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Hello World! It took 6h")
+            Console.Writeline("Hello World! It took 6h! Good bye America!")
         }
     }
 }
